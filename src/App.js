@@ -1,9 +1,13 @@
 import './App.css';
+import Test from './components/Test';
 
 const App = () => {
+
+
+
   return (
     <div>
-
+      <Test />
     </div>
   );
 }
